@@ -1,0 +1,14 @@
+input,
+select {
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+#reg_form{
+    width: 400px;
+}
+
+#reg_form h1{
+    text-align: center;
+}

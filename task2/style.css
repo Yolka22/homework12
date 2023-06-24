@@ -1,0 +1,21 @@
+#pictures{
+    
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row;
+}
+h1{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.picture{
+    
+    margin-top: 20px;
+}
+
+main{
+    width: 600px;
+    background-color: gray;
+}
